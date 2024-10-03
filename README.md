@@ -24,7 +24,7 @@ Follow these steps to set up your development environment and start the workshop
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/SPS.git
-   cd SPS
+   cd SPS_Python_Beginner_Workshop
 2. **Set up a Virtual Environment**
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
